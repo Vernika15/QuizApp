@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "e89908eade8ddbc60f9a7acd00b91fdf2fe362923a8c85ae7ecb0fbfab3a1a06"
+build_start_time: [1690280514, 878398000]
+build_end_time: [1690280514, 943452000]
+inputs:
+  "/Users/vernika/Desktop/Projects/FlutterDev/Projects/quiz_app/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1690280497, 210533225]
+  "/Users/vernika/Desktop/Projects/FlutterDev/Projects/quiz_app/macos/Runner/AppDelegate.swift": !private [1686756961, 0]
+  "/Users/vernika/Desktop/Projects/FlutterDev/Projects/quiz_app/macos/Runner/MainFlutterWindow.swift": !private [1686756961, 0]
